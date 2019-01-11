@@ -5,7 +5,10 @@
 // Copyright codelifecontracts. All rights reserved.
 // --------------------------------------------------------------------------
 
+
+if (process.env.NODE_ENV != 'production') require('dotenv').load();
+
 const http = require('http'), debug = require('debeg')('server');
 var src = require('./src'), port = normalizePort(process.env.PORT || '3000');
 
-console.log('STARTING'); 
+console.log('STARTING');
