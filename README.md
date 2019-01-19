@@ -1,2 +1,4 @@
-# CLS-www.codelifecontracts.co
-Software | Personal software portfolio and contracting portal. 
+# CLS-CodeLifeContracting-Website 
+  ### Software | Personal Software Portfolio, Custom Resource Hub, and Project Manager.
+  ### URL: www.codelifecontracts.co
+
