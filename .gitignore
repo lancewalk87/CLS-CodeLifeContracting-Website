@@ -1,2 +1,46 @@
-# compiled output
+#dependancies
+/Godeps
+/src_frontend/node_modules
+
+#compiled output
 /dist
+/src_frontend/tmp
+/src_frontend/out-tsc
+
+#profilers
+/src_frontend/chrome-profiler-events.json
+/src_frontend/speed-measure-plugin.json
+
+#IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+#misc
+/src_frontend/.sass-cache
+/src_frontend/connect.lock
+/src_frontend/coverage
+/src_frontend/libpeerconnection.log
+/src_frontend/npm-debug.log
+/src_frontend/yarn-error.log
+/src_frontend/testem.log
+/src_frontend/typings
+
+#docs - preproc. 
+/docs/ux_src
+/docs/*.xd
+
+#system files
+.DS_Store 
+Thumbs.db
