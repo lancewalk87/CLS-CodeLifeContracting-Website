@@ -25,5 +25,5 @@ const (
 )
 
 func main() {
-  fmt.Printf("STARTING");
+
 }
