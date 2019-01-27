@@ -1,0 +1,74 @@
+*   [33mcommit 292e9843a282fc8ddc31b034333866ea3a612b0a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mmobile[m[33m, [m[1;32mbrowser[m[33m)[m
+[31m|[m[32m\[m  Merge: 8c851a2 05c21cf
+[31m|[m [32m|[m Author: walkeralance65@gmail.com <walkerlance65@gmail.com>
+[31m|[m [32m|[m Date:   Sun Jan 27 02:50:29 2019 -0700
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'master' of https://github.com/lancewalk87/CLS-CodeLifeContracting-Website
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 05c21cf2c9fe15a71351aa72d0d5111eb3bfa148[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[31m|[m [32m|[m Author: Lance Walker <walkerlance65@gmail.com>
+[31m|[m [32m|[m Date:   Sun Jan 27 00:58:23 2019 -0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     v2.0.2
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 6895fc89cc0c9b5192cd7d33e338fb453e638d5e[m
+[31m|[m [32m|[m Author: Lance Walker <walkerlance65@gmail.com>
+[31m|[m [32m|[m Date:   Fri Jan 25 00:21:11 2019 -0800
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     v2.0.1
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 8c851a29abcd076ad3a005627e889c1baba713b0[m
+[32m|[m[32m/[m  Author: walkeralance65@gmail.com <walkerlance65@gmail.com>
+[32m|[m   Date:   Fri Jan 25 12:35:20 2019 -0700
+[32m|[m   
+[32m|[m       v2.0.2
+[32m|[m 
+* [33mcommit d7a90aa722f3d1e0fc68dbd1ea527cf72fab1f72[m
+[32m|[m Author: walkeralance65@gmail.com <walkerlance65@gmail.com>
+[32m|[m Date:   Thu Jan 24 22:39:38 2019 -0700
+[32m|[m 
+[32m|[m     v2.0.0
+[32m|[m     
+[32m|[m     Schema
+[32m|[m 
+* [33mcommit 7877264c76832bde5457ce435331ae5d4047df4d[m
+[32m|[m Author: Lance Walker <walkerlance65@gmail.com>
+[32m|[m Date:   Sat Jan 19 04:32:23 2019 -0700
+[32m|[m 
+[32m|[m     Update README.md
+[32m|[m 
+* [33mcommit 7efb7add40e8173518012e3d81645c8064d67d29[m
+[32m|[m Author: Lance Walker <walkerlance65@gmail.com>
+[32m|[m Date:   Fri Jan 11 02:21:27 2019 -0800
+[32m|[m 
+[32m|[m     workspace v1.0.1
+[32m|[m 
+* [33mcommit ccda653f2041b72ae58fe33dfa9014a965fd6fbe[m
+[32m|[m Author: Lance Walker <walkerlance65@gmail.com>
+[32m|[m Date:   Fri Jan 11 02:12:04 2019 -0800
+[32m|[m 
+[32m|[m     v1.0.1
+[32m|[m 
+* [33mcommit 4aa4e92e791729209c02919f008228de7c9d6691[m
+[32m|[m Author: Lance Walker <walkerlance65@gmail.com>
+[32m|[m Date:   Fri Jan 11 02:04:02 2019 -0800
+[32m|[m 
+[32m|[m     v1.0.0
+[32m|[m 
+* [33mcommit d1f20a57310f55580de0c24cfba762f2dd82e0d7[m
+[32m|[m Author: Lance Walker <walkerlance65@gmail.com>
+[32m|[m Date:   Fri Jan 11 02:36:06 2019 -0700
+[32m|[m 
+[32m|[m     Update README.md
+[32m|[m 
+* [33mcommit a1458bddeb2441dfffc51c437df6fcb86a17dcb7[m
+[32m|[m Author: Lance Walker <walkerlance65@gmail.com>
+[32m|[m Date:   Fri Jan 11 02:30:34 2019 -0700
+[32m|[m 
+[32m|[m     Update README.md
+[32m|[m 
+* [33mcommit f51f35e7ce1f3addb976304a9c08e7874e2f3462[m
+  Author: Lance Walker <walkerlance65@gmail.com>
+  Date:   Fri Jan 11 01:34:16 2019 -0700
+  
+      Initial commit
